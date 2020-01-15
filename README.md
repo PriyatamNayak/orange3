@@ -38,6 +38,10 @@ This will enable access to the latest Orange release. Then install Orange3:
 
 To install the add-ons, follow a similar recipe:
 
+
+how we can run as api???
+
+
     conda install orange3-<addon name>
 
 See specific add-on repositories for details.
